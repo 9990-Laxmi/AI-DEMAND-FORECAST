@@ -117,7 +117,7 @@ Models implemented:
 - Linear Regression
 - Random Forest Regressor
 - XGBoost Regressor
-
+- LightGBM
 ---
 
 ##  Model Evaluation
@@ -129,12 +129,12 @@ Models are evaluated using:
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Percentage Error (MAPE)
 - R² Score
-
 ---
 
 ##  Results
 
 The AI forecasting model predicts future demand patterns and helps businesses make better decisions.
+---
 
 ##  Business Impact
 
